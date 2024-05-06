@@ -74,7 +74,12 @@ The easiest way to measure a resistive sensor is to connect one end to power and
 ## ON :
 ![Screenshot 2024-03-03 172142](https://github.com/rohitkumar20700000/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/130482461/71265356-e6a1-42c5-9f76-8c2b92164c94)
 
-
+##
+##
+##
+##
+##
+##
 
 ### PROCEDURE:
 1.	Connect the circuit as per the circuit diagram 
