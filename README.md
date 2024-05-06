@@ -77,9 +77,7 @@ The easiest way to measure a resistive sensor is to connect one end to power and
 ##
 ##
 ##
-##
-##
-##
+
 
 ### PROCEDURE:
 1.	Connect the circuit as per the circuit diagram 
