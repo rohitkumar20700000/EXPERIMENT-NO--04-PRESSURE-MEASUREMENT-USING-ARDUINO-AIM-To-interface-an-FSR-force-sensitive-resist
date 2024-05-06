@@ -126,11 +126,11 @@ void loop()
 }
 ```
 
-
+### TABLE -02 standard deviation table 
  <img width="542" alt="Screenshot 2024-03-01 214843" src="https://github.com/Prasanna-936/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/130341982/f6b94ea6-7ccf-4108-8781-3fc922d6d0dd">
 
+## Figure 4 Graph comparison of applied and mapped forces
 
-### TABLE -02 standard deviation table 
 <img width="430" alt="Screenshot 2024-03-01 222831" src="https://github.com/Prasanna-936/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/130341982/1e558a46-6b98-4e0b-9075-313441a220c2">
 
 ### Population Standard Deviation
