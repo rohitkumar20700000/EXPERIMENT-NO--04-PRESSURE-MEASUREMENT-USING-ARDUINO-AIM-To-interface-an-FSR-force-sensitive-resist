@@ -4,7 +4,6 @@
 # ROLLNUMBER :212221220011
 # DEPARTMENT:INFORMATION TECHNOLOGY
 
-
 ## AIM: 
 To interface an FSR(force sensitive resistor) and scale the output voltage obtained to pressure applied 
  
